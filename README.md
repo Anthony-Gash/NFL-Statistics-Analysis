@@ -17,7 +17,6 @@ This project analyzes NFL statistics from the 2012 to 2022 seasons for positions
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
